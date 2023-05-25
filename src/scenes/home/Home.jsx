@@ -1,6 +1,12 @@
+import MainCarousel from "./MainCarousel";
+import ShoppingList from "./ShoppingList";
+
 const Home = () => {
   return (
-    <div>Home</div>
+    <div className="home">
+      <MainCarousel/>
+      <ShoppingList />
+    </div>
   )
 }
 
