@@ -21,7 +21,7 @@ const ShoppingList = () => {
     );
     const itemsJson = await items.json();
     dispatch(setItems(itemsJson.data));
-    console.log(itemsJson)
+ 
   }
 
   const handleChange = (event, newValue) => {
