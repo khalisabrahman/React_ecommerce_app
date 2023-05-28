@@ -28,10 +28,10 @@ const Footer = () => {
             ECOMMERCE
           </Typography>
           <div>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            mollitia enim aspernatur architecto libero assumenda, deserunt nemo
-            ratione? Cupiditate aliquam provident natus cum nesciunt sapiente
-            neque voluptas error architecto magnam alias et velit, commodi
+            At ECOMMERCE, we curate a wide range of high-quality
+            products sourced from trusted vendors and artisans around the world.
+            From fashion and accessories to home decor and electronics, our
+            carefully selected collection offers something for everyone.
           </div>
         </Box>
 
@@ -56,7 +56,7 @@ const Footer = () => {
         </Box>
 
         <Box width="clamp(20%,25%,30%)">
-        <Typography variant="h4" fontWeight="bold" mb="30px">
+          <Typography variant="h4" fontWeight="bold" mb="30px">
             Contact Us
           </Typography>
           <Typography mb="30px">Tampines Circle, Singapore, 123456</Typography>
